@@ -8,4 +8,11 @@
     <string name="light_bulb">Light bulb</string>
     <string name="choose_color">Choose a color:</string>
     <string name="new_game">New Game</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="if_you_are_having_any_trouble_with_our_game_feel_free_to_contact_us">If you are having any trouble with our game feel free to contact us</string>
+    <string name="insert_phone_number_here">Insert Phone Number here</string>
+    <string name="insert_email_here">Insert Email here</string>
+    <string name="insert_location_here">Insert Location Here</string>
 </resources>

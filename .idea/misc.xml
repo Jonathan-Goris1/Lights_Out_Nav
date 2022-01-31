@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/LightsOutNav/app/src/main/res/drawable/contact_icon.xml" value="0.195" />
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/LightsOutNav/app/src/main/res/layout-land/activity_main.xml" value="0.4691358024691358" />
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/LightsOutNav/app/src/main/res/layout-land/fragment_game.xml" value="0.28" />
         <entry key="..\:/Users/jonat/AndroidStudioProjects/LightsOutNav/app/src/main/res/layout/activity_main.xml" value="0.38385416666666666" />
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/LightsOutNav/app/src/main/res/layout/fragment_about.xml" value="0.32653985507246375" />
         <entry key="..\:/Users/jonat/AndroidStudioProjects/LightsOutNav/app/src/main/res/layout/fragment_color.xml" value="0.38385416666666666" />
         <entry key="..\:/Users/jonat/AndroidStudioProjects/LightsOutNav/app/src/main/res/layout/fragment_game.xml" value="0.38385416666666666" />
         <entry key="..\:/Users/jonat/AndroidStudioProjects/LightsOutNav/app/src/main/res/layout/fragment_help.xml" value="0.38385416666666666" />

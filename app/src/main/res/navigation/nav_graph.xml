@@ -22,4 +22,10 @@
         android:name="com.example.lightsoutnav.HelpFragment"
         android:label="@string/title_help"
         tools:layout="@layout/fragment_help" />
+
+    <fragment
+        android:id="@+id/navigation_contact"
+        android:name="com.example.lightsoutnav.AboutFragment"
+        android:label="@string/contact_us"
+        tools:layout="@layout/fragment_about" />
 </navigation>
